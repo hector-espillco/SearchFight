@@ -1,0 +1,19 @@
+2020-05-30 22:25:58.211 -05:00 [Information] Adding!
+2020-05-30 22:25:59.565 -05:00 [Information] Adding!
+2020-05-30 22:25:59.868 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java
+2020-05-30 22:25:59.874 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java
+2020-05-30 22:26:01.344 -05:00 [Information] Received HTTP response after 1465.3273ms - OK
+2020-05-30 22:26:01.346 -05:00 [Information] End processing HTTP request after 1493.8114ms - OK
+2020-05-30 22:26:01.831 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java
+2020-05-30 22:26:01.831 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java
+2020-05-30 22:26:02.403 -05:00 [Information] Received HTTP response after 571.8475ms - OK
+2020-05-30 22:26:02.403 -05:00 [Information] End processing HTTP request after 572.771ms - OK
+2020-05-30 22:26:02.462 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=.net
+2020-05-30 22:26:02.462 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=.net
+2020-05-30 22:26:02.781 -05:00 [Information] Received HTTP response after 318.3887ms - OK
+2020-05-30 22:26:02.782 -05:00 [Information] End processing HTTP request after 319.7448ms - OK
+2020-05-30 22:26:02.789 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=.net
+2020-05-30 22:26:02.790 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=.net
+2020-05-30 22:26:03.219 -05:00 [Information] Received HTTP response after 429.0105ms - OK
+2020-05-30 22:26:03.220 -05:00 [Information] End processing HTTP request after 430.4467ms - OK
+2020-05-30 22:38:59.164 -05:00 [Error] Constructor on type 'SearchFight.Application.Searches.BingSearch' not found.

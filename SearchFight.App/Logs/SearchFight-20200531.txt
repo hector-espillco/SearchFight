@@ -1,0 +1,432 @@
+2020-05-31 12:01:44.785 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java
+2020-05-31 12:01:44.805 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java
+2020-05-31 12:01:46.595 -05:00 [Information] Received HTTP response after 1774.0783ms - OK
+2020-05-31 12:01:46.598 -05:00 [Information] End processing HTTP request after 1838.4789ms - OK
+2020-05-31 12:01:47.086 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java
+2020-05-31 12:01:47.087 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java
+2020-05-31 12:01:47.783 -05:00 [Information] Received HTTP response after 695.512ms - OK
+2020-05-31 12:01:47.784 -05:00 [Information] End processing HTTP request after 697.2154ms - OK
+2020-05-31 12:01:47.858 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=.net
+2020-05-31 12:01:47.859 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=.net
+2020-05-31 12:01:48.235 -05:00 [Information] Received HTTP response after 375.9291ms - OK
+2020-05-31 12:01:48.235 -05:00 [Information] End processing HTTP request after 376.8605ms - OK
+2020-05-31 12:01:48.243 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=.net
+2020-05-31 12:01:48.243 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=.net
+2020-05-31 12:01:48.699 -05:00 [Information] Received HTTP response after 455.8281ms - OK
+2020-05-31 12:01:48.700 -05:00 [Information] End processing HTTP request after 457.7286ms - OK
+2020-05-31 12:05:56.132 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java
+2020-05-31 12:05:56.159 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java
+2020-05-31 12:05:57.811 -05:00 [Information] Received HTTP response after 1646.1753ms - OK
+2020-05-31 12:05:57.813 -05:00 [Information] End processing HTTP request after 1704.1494ms - OK
+2020-05-31 12:05:58.192 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java
+2020-05-31 12:05:58.192 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java
+2020-05-31 12:05:58.819 -05:00 [Information] Received HTTP response after 626.7119ms - OK
+2020-05-31 12:05:58.820 -05:00 [Information] End processing HTTP request after 627.7905ms - OK
+2020-05-31 12:05:58.901 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=.net
+2020-05-31 12:05:58.901 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=.net
+2020-05-31 12:05:59.212 -05:00 [Information] Received HTTP response after 310.3576ms - OK
+2020-05-31 12:05:59.214 -05:00 [Information] End processing HTTP request after 312.7929ms - OK
+2020-05-31 12:05:59.234 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=.net
+2020-05-31 12:05:59.236 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=.net
+2020-05-31 12:05:59.658 -05:00 [Information] Received HTTP response after 421.3886ms - OK
+2020-05-31 12:05:59.659 -05:00 [Information] End processing HTTP request after 425.3056ms - OK
+2020-05-31 12:08:51.566 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java
+2020-05-31 12:08:51.594 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java
+2020-05-31 12:08:53.223 -05:00 [Information] Received HTTP response after 1620.1825ms - OK
+2020-05-31 12:08:53.226 -05:00 [Information] End processing HTTP request after 1685.8292ms - OK
+2020-05-31 12:08:53.639 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java
+2020-05-31 12:08:53.639 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java
+2020-05-31 12:08:54.238 -05:00 [Information] Received HTTP response after 599.0887ms - OK
+2020-05-31 12:08:54.240 -05:00 [Information] End processing HTTP request after 601.6159ms - OK
+2020-05-31 12:08:54.301 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=.net
+2020-05-31 12:08:54.301 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=.net
+2020-05-31 12:08:54.672 -05:00 [Information] Received HTTP response after 369.8474ms - OK
+2020-05-31 12:08:54.673 -05:00 [Information] End processing HTTP request after 371.293ms - OK
+2020-05-31 12:08:54.684 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=.net
+2020-05-31 12:08:54.685 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=.net
+2020-05-31 12:08:55.129 -05:00 [Information] Received HTTP response after 443.6167ms - OK
+2020-05-31 12:08:55.129 -05:00 [Information] End processing HTTP request after 445.2173ms - OK
+2020-05-31 12:09:49.575 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java
+2020-05-31 12:09:49.602 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java
+2020-05-31 12:09:51.218 -05:00 [Information] Received HTTP response after 1612.1231ms - OK
+2020-05-31 12:09:51.220 -05:00 [Information] End processing HTTP request after 1669.8183ms - OK
+2020-05-31 12:09:51.617 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java
+2020-05-31 12:09:51.617 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java
+2020-05-31 12:09:52.222 -05:00 [Information] Received HTTP response after 604.4054ms - OK
+2020-05-31 12:09:52.224 -05:00 [Information] End processing HTTP request after 606.7421ms - OK
+2020-05-31 12:09:52.300 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=.net
+2020-05-31 12:09:52.301 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=.net
+2020-05-31 12:09:52.600 -05:00 [Information] Received HTTP response after 298.5435ms - OK
+2020-05-31 12:09:52.601 -05:00 [Information] End processing HTTP request after 300.5544ms - OK
+2020-05-31 12:09:52.616 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=.net
+2020-05-31 12:09:52.617 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=.net
+2020-05-31 12:09:53.052 -05:00 [Information] Received HTTP response after 435.5701ms - OK
+2020-05-31 12:09:53.053 -05:00 [Information] End processing HTTP request after 437.6699ms - OK
+2020-05-31 12:28:27.447 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java
+2020-05-31 12:28:27.472 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java
+2020-05-31 12:28:27.669 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java
+2020-05-31 12:28:27.669 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java
+2020-05-31 12:28:27.680 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=.net
+2020-05-31 12:28:27.680 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=.net
+2020-05-31 12:28:27.681 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=.net
+2020-05-31 12:28:27.682 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=.net
+2020-05-31 12:28:28.538 -05:00 [Information] Received HTTP response after 864.26ms - OK
+2020-05-31 12:28:28.540 -05:00 [Information] End processing HTTP request after 871.1115ms - OK
+2020-05-31 12:28:28.574 -05:00 [Information] Received HTTP response after 892.0783ms - OK
+2020-05-31 12:28:28.574 -05:00 [Information] End processing HTTP request after 892.3617ms - OK
+2020-05-31 12:28:28.766 -05:00 [Information] Received HTTP response after 1086.3141ms - OK
+2020-05-31 12:28:28.766 -05:00 [Information] End processing HTTP request after 1086.6577ms - OK
+2020-05-31 12:28:29.038 -05:00 [Information] Received HTTP response after 1565.9763ms - OK
+2020-05-31 12:28:29.039 -05:00 [Information] End processing HTTP request after 1624.0858ms - OK
+2020-05-31 12:29:17.920 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java
+2020-05-31 12:29:17.943 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java
+2020-05-31 12:29:18.088 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java
+2020-05-31 12:29:18.088 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java
+2020-05-31 12:29:18.093 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=.net
+2020-05-31 12:29:18.093 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=.net
+2020-05-31 12:29:18.094 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=.net
+2020-05-31 12:29:18.094 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=.net
+2020-05-31 12:29:18.885 -05:00 [Information] Received HTTP response after 792.151ms - OK
+2020-05-31 12:29:18.886 -05:00 [Information] End processing HTTP request after 798.3493ms - OK
+2020-05-31 12:29:18.914 -05:00 [Information] Received HTTP response after 819.797ms - OK
+2020-05-31 12:29:18.914 -05:00 [Information] End processing HTTP request after 820.0871ms - OK
+2020-05-31 12:29:19.081 -05:00 [Information] Received HTTP response after 987.9687ms - OK
+2020-05-31 12:29:19.081 -05:00 [Information] End processing HTTP request after 988.2667ms - OK
+2020-05-31 12:29:19.150 -05:00 [Information] Received HTTP response after 1207.3709ms - OK
+2020-05-31 12:29:19.150 -05:00 [Information] End processing HTTP request after 1257.6111ms - OK
+2020-05-31 12:30:36.963 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java
+2020-05-31 12:30:37.007 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java
+2020-05-31 12:30:37.167 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java
+2020-05-31 12:30:37.167 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java
+2020-05-31 12:30:37.170 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=.net
+2020-05-31 12:30:37.170 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=.net
+2020-05-31 12:30:37.171 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=.net
+2020-05-31 12:30:37.171 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=.net
+2020-05-31 12:30:37.940 -05:00 [Information] Received HTTP response after 765.3531ms - OK
+2020-05-31 12:30:37.942 -05:00 [Information] End processing HTTP request after 774.9401ms - OK
+2020-05-31 12:30:38.237 -05:00 [Information] Received HTTP response after 1065.8032ms - OK
+2020-05-31 12:30:38.237 -05:00 [Information] End processing HTTP request after 1066.0624ms - OK
+2020-05-31 12:30:38.311 -05:00 [Information] Received HTTP response after 1305.4844ms - OK
+2020-05-31 12:30:38.311 -05:00 [Information] End processing HTTP request after 1380.3353ms - OK
+2020-05-31 12:30:38.313 -05:00 [Information] Received HTTP response after 1143.2988ms - OK
+2020-05-31 12:30:38.313 -05:00 [Information] End processing HTTP request after 1143.579ms - OK
+2020-05-31 12:33:43.850 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java
+2020-05-31 12:33:43.872 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java
+2020-05-31 12:33:44.043 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java
+2020-05-31 12:33:44.043 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java
+2020-05-31 12:33:44.050 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=.net
+2020-05-31 12:33:44.050 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=.net
+2020-05-31 12:33:44.052 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=.net
+2020-05-31 12:33:44.052 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=.net
+2020-05-31 12:33:44.821 -05:00 [Information] Received HTTP response after 770.1226ms - OK
+2020-05-31 12:33:44.821 -05:00 [Information] Received HTTP response after 767.1278ms - OK
+2020-05-31 12:33:44.823 -05:00 [Information] End processing HTTP request after 771.0481ms - OK
+2020-05-31 12:33:44.823 -05:00 [Information] End processing HTTP request after 779.3825ms - OK
+2020-05-31 12:33:45.278 -05:00 [Information] Received HTTP response after 1406.4083ms - OK
+2020-05-31 12:33:45.278 -05:00 [Information] End processing HTTP request after 1447.7949ms - OK
+2020-05-31 12:33:45.390 -05:00 [Information] Received HTTP response after 1339.4788ms - OK
+2020-05-31 12:33:45.390 -05:00 [Information] End processing HTTP request after 1339.8182ms - OK
+2020-05-31 12:34:15.726 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java
+2020-05-31 12:34:15.749 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java
+2020-05-31 12:34:15.899 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java
+2020-05-31 12:34:15.899 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java
+2020-05-31 12:34:15.907 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=.net
+2020-05-31 12:34:15.907 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=.net
+2020-05-31 12:34:15.908 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=.net
+2020-05-31 12:34:15.908 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=.net
+2020-05-31 12:34:16.599 -05:00 [Information] Received HTTP response after 693.1039ms - OK
+2020-05-31 12:34:16.602 -05:00 [Information] End processing HTTP request after 702.4201ms - OK
+2020-05-31 12:34:16.631 -05:00 [Information] Received HTTP response after 722.1316ms - OK
+2020-05-31 12:34:16.631 -05:00 [Information] End processing HTTP request after 722.4003ms - OK
+2020-05-31 12:34:16.664 -05:00 [Information] Received HTTP response after 915.4411ms - OK
+2020-05-31 12:34:16.664 -05:00 [Information] Received HTTP response after 756.9995ms - OK
+2020-05-31 12:34:16.664 -05:00 [Information] End processing HTTP request after 957.1584ms - OK
+2020-05-31 12:34:16.664 -05:00 [Information] End processing HTTP request after 757.2484ms - OK
+2020-05-31 12:35:32.343 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java
+2020-05-31 12:35:32.368 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java
+2020-05-31 12:35:32.520 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java
+2020-05-31 12:35:32.521 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java
+2020-05-31 12:35:32.525 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=.net
+2020-05-31 12:35:32.525 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=.net
+2020-05-31 12:35:32.528 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=.net
+2020-05-31 12:35:32.528 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=.net
+2020-05-31 12:35:33.355 -05:00 [Information] Received HTTP response after 834.3503ms - OK
+2020-05-31 12:35:33.355 -05:00 [Information] Received HTTP response after 824.6681ms - OK
+2020-05-31 12:35:33.356 -05:00 [Information] Received HTTP response after 826.2528ms - OK
+2020-05-31 12:35:33.358 -05:00 [Information] End processing HTTP request after 832.9178ms - OK
+2020-05-31 12:35:33.358 -05:00 [Information] End processing HTTP request after 836.9837ms - OK
+2020-05-31 12:35:33.358 -05:00 [Information] End processing HTTP request after 829.749ms - OK
+2020-05-31 12:35:33.366 -05:00 [Information] Received HTTP response after 998.6929ms - OK
+2020-05-31 12:35:33.366 -05:00 [Information] End processing HTTP request after 1043.2447ms - OK
+2020-05-31 12:38:12.250 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java
+2020-05-31 12:38:12.268 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java
+2020-05-31 12:38:12.442 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java
+2020-05-31 12:38:12.442 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java
+2020-05-31 12:38:12.444 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=.net
+2020-05-31 12:38:12.444 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=.net
+2020-05-31 12:38:12.445 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=.net
+2020-05-31 12:38:12.445 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=.net
+2020-05-31 12:38:13.225 -05:00 [Information] Received HTTP response after 775.0441ms - OK
+2020-05-31 12:38:13.227 -05:00 [Information] End processing HTTP request after 784.698ms - OK
+2020-05-31 12:38:13.296 -05:00 [Information] Received HTTP response after 1028.7549ms - OK
+2020-05-31 12:38:13.297 -05:00 [Information] End processing HTTP request after 1066.8729ms - OK
+2020-05-31 12:38:13.376 -05:00 [Information] Received HTTP response after 929.5718ms - OK
+2020-05-31 12:38:13.380 -05:00 [Information] End processing HTTP request after 934.3511ms - OK
+2020-05-31 12:38:13.564 -05:00 [Information] Received HTTP response after 1119.7338ms - OK
+2020-05-31 12:38:13.564 -05:00 [Information] End processing HTTP request after 1120.075ms - OK
+2020-05-31 12:47:28.372 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java
+2020-05-31 12:47:28.414 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java
+2020-05-31 12:47:28.816 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=.net
+2020-05-31 12:47:28.816 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=.net
+2020-05-31 12:47:29.643 -05:00 [Information] Received HTTP response after 1222.6029ms - OK
+2020-05-31 12:47:29.646 -05:00 [Information] End processing HTTP request after 1303.2454ms - OK
+2020-05-31 12:47:29.761 -05:00 [Information] Received HTTP response after 944.5602ms - OK
+2020-05-31 12:47:29.761 -05:00 [Information] End processing HTTP request after 944.8614ms - OK
+2020-05-31 13:13:37.042 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java
+2020-05-31 13:13:37.060 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java
+2020-05-31 13:13:37.180 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java
+2020-05-31 13:13:37.180 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java
+2020-05-31 13:13:37.182 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=.net
+2020-05-31 13:13:37.182 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=.net
+2020-05-31 13:13:37.183 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=.net
+2020-05-31 13:13:37.183 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=.net
+2020-05-31 13:13:37.960 -05:00 [Information] Received HTTP response after 775.2125ms - OK
+2020-05-31 13:13:37.961 -05:00 [Information] End processing HTTP request after 783.6925ms - OK
+2020-05-31 13:13:38.030 -05:00 [Information] Received HTTP response after 846.8917ms - OK
+2020-05-31 13:13:38.030 -05:00 [Information] End processing HTTP request after 847.1364ms - OK
+2020-05-31 13:13:38.379 -05:00 [Information] Received HTTP response after 1197.8208ms - OK
+2020-05-31 13:13:38.380 -05:00 [Information] End processing HTTP request after 1198.166ms - OK
+2020-05-31 13:13:38.695 -05:00 [Information] Received HTTP response after 1634.6743ms - OK
+2020-05-31 13:13:38.698 -05:00 [Information] End processing HTTP request after 1677.972ms - OK
+2020-05-31 13:16:56.150 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=abc
+2020-05-31 13:16:56.165 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=abc
+2020-05-31 13:16:56.235 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=abc
+2020-05-31 13:16:56.235 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=abc
+2020-05-31 13:16:57.048 -05:00 [Information] Received HTTP response after 800.829ms - OK
+2020-05-31 13:16:57.051 -05:00 [Information] End processing HTTP request after 815.8834ms - OK
+2020-05-31 13:16:57.576 -05:00 [Information] Received HTTP response after 1411.6145ms - OK
+2020-05-31 13:16:57.578 -05:00 [Information] End processing HTTP request after 1443.7858ms - OK
+2020-05-31 13:19:18.627 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=.net
+2020-05-31 13:19:18.642 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=.net
+2020-05-31 13:19:18.714 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=.net
+2020-05-31 13:19:18.714 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=.net
+2020-05-31 13:19:18.714 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java
+2020-05-31 13:19:18.715 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java
+2020-05-31 13:19:18.715 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java
+2020-05-31 13:19:18.715 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java
+2020-05-31 13:19:18.715 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java script
+2020-05-31 13:19:18.716 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java script
+2020-05-31 13:19:18.716 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java script
+2020-05-31 13:19:18.716 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java script
+2020-05-31 13:19:19.471 -05:00 [Information] Received HTTP response after 750.3072ms - OK
+2020-05-31 13:19:19.471 -05:00 [Information] Received HTTP response after 751.1414ms - OK
+2020-05-31 13:19:19.473 -05:00 [Information] End processing HTTP request after 757.0419ms - OK
+2020-05-31 13:19:19.473 -05:00 [Information] End processing HTTP request after 757.8834ms - OK
+2020-05-31 13:19:19.761 -05:00 [Information] Received HTTP response after 1046.9614ms - OK
+2020-05-31 13:19:19.761 -05:00 [Information] End processing HTTP request after 1047.3054ms - OK
+2020-05-31 13:19:20.041 -05:00 [Information] Received HTTP response after 1399.32ms - OK
+2020-05-31 13:19:20.042 -05:00 [Information] End processing HTTP request after 1430.6958ms - OK
+2020-05-31 13:19:20.102 -05:00 [Information] Received HTTP response after 1387.9337ms - OK
+2020-05-31 13:19:20.103 -05:00 [Information] End processing HTTP request after 1388.1709ms - OK
+2020-05-31 13:19:20.420 -05:00 [Information] Received HTTP response after 1702.9097ms - OK
+2020-05-31 13:19:20.422 -05:00 [Information] End processing HTTP request after 1706.1262ms - OK
+2020-05-31 13:20:02.610 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=.net
+2020-05-31 13:20:02.625 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=.net
+2020-05-31 13:20:02.698 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=.net
+2020-05-31 13:20:02.698 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=.net
+2020-05-31 13:20:02.699 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java script
+2020-05-31 13:20:02.699 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java script
+2020-05-31 13:20:02.700 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java script
+2020-05-31 13:20:02.700 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java script
+2020-05-31 13:20:03.461 -05:00 [Information] Received HTTP response after 751.7002ms - OK
+2020-05-31 13:20:03.461 -05:00 [Information] Received HTTP response after 752.1168ms - OK
+2020-05-31 13:20:03.461 -05:00 [Information] Received HTTP response after 752.9763ms - OK
+2020-05-31 13:20:03.464 -05:00 [Information] End processing HTTP request after 764.6092ms - OK
+2020-05-31 13:20:03.464 -05:00 [Information] End processing HTTP request after 764.1557ms - OK
+2020-05-31 13:20:03.464 -05:00 [Information] End processing HTTP request after 765.5014ms - OK
+2020-05-31 13:20:03.711 -05:00 [Information] Received HTTP response after 1087.409ms - OK
+2020-05-31 13:20:03.712 -05:00 [Information] End processing HTTP request after 1118.7324ms - OK
+2020-05-31 13:23:37.444 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=.net
+2020-05-31 13:23:37.459 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=.net
+2020-05-31 13:23:37.530 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=.net
+2020-05-31 13:23:37.530 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=.net
+2020-05-31 13:23:37.531 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java
+2020-05-31 13:23:37.531 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java
+2020-05-31 13:23:37.532 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java
+2020-05-31 13:23:37.532 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java
+2020-05-31 13:23:37.532 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java script
+2020-05-31 13:23:37.532 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java script
+2020-05-31 13:23:37.533 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java script
+2020-05-31 13:23:37.533 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java script
+2020-05-31 13:23:38.270 -05:00 [Information] Received HTTP response after 731.7125ms - OK
+2020-05-31 13:23:38.270 -05:00 [Information] Received HTTP response after 726.0118ms - OK
+2020-05-31 13:23:38.270 -05:00 [Information] Received HTTP response after 728.2957ms - OK
+2020-05-31 13:23:38.275 -05:00 [Information] End processing HTTP request after 742.2522ms - OK
+2020-05-31 13:23:38.275 -05:00 [Information] End processing HTTP request after 741.4119ms - OK
+2020-05-31 13:23:38.275 -05:00 [Information] End processing HTTP request after 743.7506ms - OK
+2020-05-31 13:23:38.488 -05:00 [Information] Received HTTP response after 956.5629ms - OK
+2020-05-31 13:23:38.488 -05:00 [Information] End processing HTTP request after 956.881ms - OK
+2020-05-31 13:23:38.695 -05:00 [Information] Received HTTP response after 1237.0442ms - OK
+2020-05-31 13:23:38.696 -05:00 [Information] End processing HTTP request after 1268.2436ms - OK
+2020-05-31 13:23:38.911 -05:00 [Information] Received HTTP response after 1378.2801ms - OK
+2020-05-31 13:23:38.913 -05:00 [Information] End processing HTTP request after 1380.3203ms - OK
+2020-05-31 13:26:49.468 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=.net
+2020-05-31 13:26:49.484 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=.net
+2020-05-31 13:26:49.555 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=.net
+2020-05-31 13:26:49.556 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=.net
+2020-05-31 13:26:49.556 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java
+2020-05-31 13:26:49.556 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java
+2020-05-31 13:26:49.557 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java
+2020-05-31 13:26:49.557 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java
+2020-05-31 13:26:49.558 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java script
+2020-05-31 13:26:49.558 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java script
+2020-05-31 13:26:49.558 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java script
+2020-05-31 13:26:49.558 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java script
+2020-05-31 13:26:50.228 -05:00 [Information] Received HTTP response after 661.715ms - OK
+2020-05-31 13:26:50.228 -05:00 [Information] Received HTTP response after 664.0769ms - OK
+2020-05-31 13:26:50.229 -05:00 [Information] End processing HTTP request after 671.253ms - OK
+2020-05-31 13:26:50.229 -05:00 [Information] End processing HTTP request after 673.6517ms - OK
+2020-05-31 13:26:50.246 -05:00 [Information] Received HTTP response after 763.048ms - OK
+2020-05-31 13:26:50.246 -05:00 [Information] End processing HTTP request after 795.318ms - OK
+2020-05-31 13:26:50.273 -05:00 [Information] Received HTTP response after 716.6232ms - OK
+2020-05-31 13:26:50.273 -05:00 [Information] End processing HTTP request after 716.8694ms - OK
+2020-05-31 13:26:50.290 -05:00 [Information] Received HTTP response after 732.6802ms - OK
+2020-05-31 13:26:50.290 -05:00 [Information] End processing HTTP request after 732.9353ms - OK
+2020-05-31 13:26:50.350 -05:00 [Information] Received HTTP response after 793.2378ms - OK
+2020-05-31 13:26:50.351 -05:00 [Information] End processing HTTP request after 793.5583ms - OK
+2020-05-31 13:28:30.089 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=.net
+2020-05-31 13:28:30.104 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=.net
+2020-05-31 13:28:30.177 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=.net
+2020-05-31 13:28:30.177 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=.net
+2020-05-31 13:28:30.178 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java
+2020-05-31 13:28:30.178 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java
+2020-05-31 13:28:30.178 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java
+2020-05-31 13:28:30.178 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java
+2020-05-31 13:28:30.179 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java script
+2020-05-31 13:28:30.179 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java script
+2020-05-31 13:28:30.179 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java script
+2020-05-31 13:28:30.179 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java script
+2020-05-31 13:28:30.857 -05:00 [Information] Received HTTP response after 672.2541ms - OK
+2020-05-31 13:28:30.860 -05:00 [Information] End processing HTTP request after 681.0644ms - OK
+2020-05-31 13:28:30.871 -05:00 [Information] Received HTTP response after 693.8399ms - OK
+2020-05-31 13:28:30.871 -05:00 [Information] End processing HTTP request after 694.1315ms - OK
+2020-05-31 13:28:30.872 -05:00 [Information] Received HTTP response after 692.7746ms - OK
+2020-05-31 13:28:30.872 -05:00 [Information] End processing HTTP request after 692.992ms - OK
+2020-05-31 13:28:31.310 -05:00 [Information] Received HTTP response after 1205.5767ms - OK
+2020-05-31 13:28:31.312 -05:00 [Information] End processing HTTP request after 1238.8649ms - OK
+2020-05-31 13:28:31.330 -05:00 [Information] Received HTTP response after 1152.4134ms - OK
+2020-05-31 13:28:31.330 -05:00 [Information] End processing HTTP request after 1152.6647ms - OK
+2020-05-31 13:28:31.419 -05:00 [Information] Received HTTP response after 1239.8415ms - OK
+2020-05-31 13:28:31.419 -05:00 [Information] End processing HTTP request after 1240.1515ms - OK
+2020-05-31 13:29:13.348 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=.net
+2020-05-31 13:29:13.363 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=.net
+2020-05-31 13:29:13.433 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=.net
+2020-05-31 13:29:13.433 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=.net
+2020-05-31 13:29:13.434 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java
+2020-05-31 13:29:13.434 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java
+2020-05-31 13:29:13.435 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java
+2020-05-31 13:29:13.435 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java
+2020-05-31 13:29:13.435 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java script
+2020-05-31 13:29:13.435 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java script
+2020-05-31 13:29:13.435 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java script
+2020-05-31 13:29:13.435 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java script
+2020-05-31 13:29:14.140 -05:00 [Information] Received HTTP response after 695.7414ms - OK
+2020-05-31 13:29:14.143 -05:00 [Information] End processing HTTP request after 707.1187ms - OK
+2020-05-31 13:29:14.149 -05:00 [Information] Received HTTP response after 714.7185ms - OK
+2020-05-31 13:29:14.150 -05:00 [Information] End processing HTTP request after 714.9879ms - OK
+2020-05-31 13:29:14.169 -05:00 [Information] Received HTTP response after 735.6552ms - OK
+2020-05-31 13:29:14.169 -05:00 [Information] End processing HTTP request after 735.9474ms - OK
+2020-05-31 13:29:14.445 -05:00 [Information] Received HTTP response after 1009.4562ms - OK
+2020-05-31 13:29:14.445 -05:00 [Information] End processing HTTP request after 1009.7672ms - OK
+2020-05-31 13:29:14.474 -05:00 [Information] Received HTTP response after 1039.9641ms - OK
+2020-05-31 13:29:14.474 -05:00 [Information] End processing HTTP request after 1040.3709ms - OK
+2020-05-31 13:29:14.704 -05:00 [Information] Received HTTP response after 1341.3257ms - OK
+2020-05-31 13:29:14.704 -05:00 [Information] End processing HTTP request after 1372.1899ms - OK
+2020-05-31 13:31:11.455 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=.net
+2020-05-31 13:31:11.469 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=.net
+2020-05-31 13:31:11.538 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=.net
+2020-05-31 13:31:11.538 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=.net
+2020-05-31 13:31:11.538 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java
+2020-05-31 13:31:11.538 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java
+2020-05-31 13:31:11.539 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java
+2020-05-31 13:31:11.539 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java
+2020-05-31 13:31:11.539 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java script
+2020-05-31 13:31:11.539 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java script
+2020-05-31 13:31:11.540 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java script
+2020-05-31 13:31:11.540 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java script
+2020-05-31 13:31:12.212 -05:00 [Information] Received HTTP response after 664.5551ms - OK
+2020-05-31 13:31:12.213 -05:00 [Information] End processing HTTP request after 673.0902ms - OK
+2020-05-31 13:31:12.221 -05:00 [Information] Received HTTP response after 683.5545ms - OK
+2020-05-31 13:31:12.221 -05:00 [Information] End processing HTTP request after 683.8372ms - OK
+2020-05-31 13:31:12.278 -05:00 [Information] Received HTTP response after 739.5407ms - OK
+2020-05-31 13:31:12.278 -05:00 [Information] End processing HTTP request after 739.744ms - OK
+2020-05-31 13:31:13.059 -05:00 [Information] Received HTTP response after 1520.3198ms - OK
+2020-05-31 13:31:13.061 -05:00 [Information] End processing HTTP request after 1522.2509ms - OK
+2020-05-31 13:31:13.073 -05:00 [Information] Received HTTP response after 1604.1281ms - OK
+2020-05-31 13:31:13.073 -05:00 [Information] End processing HTTP request after 1634.5723ms - OK
+2020-05-31 13:31:13.470 -05:00 [Information] Received HTTP response after 1928.8699ms - OK
+2020-05-31 13:31:13.472 -05:00 [Information] End processing HTTP request after 1932.164ms - OK
+2020-05-31 13:35:15.520 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=.net
+2020-05-31 13:35:15.535 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=.net
+2020-05-31 13:35:15.605 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=.net
+2020-05-31 13:35:15.605 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=.net
+2020-05-31 13:35:15.606 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java
+2020-05-31 13:35:15.606 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java
+2020-05-31 13:35:15.607 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java
+2020-05-31 13:35:15.607 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java
+2020-05-31 13:35:16.308 -05:00 [Information] Received HTTP response after 696.048ms - OK
+2020-05-31 13:35:16.310 -05:00 [Information] End processing HTTP request after 703.2406ms - OK
+2020-05-31 13:35:16.407 -05:00 [Information] Received HTTP response after 801.5213ms - OK
+2020-05-31 13:35:16.407 -05:00 [Information] End processing HTTP request after 801.7615ms - OK
+2020-05-31 13:35:16.462 -05:00 [Information] Received HTTP response after 855.4831ms - OK
+2020-05-31 13:35:16.462 -05:00 [Information] End processing HTTP request after 855.7264ms - OK
+2020-05-31 13:35:16.500 -05:00 [Information] Received HTTP response after 965.3465ms - OK
+2020-05-31 13:35:16.500 -05:00 [Information] End processing HTTP request after 994.5156ms - OK
+2020-05-31 14:25:14.579 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=.net
+2020-05-31 14:25:14.594 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=.net
+2020-05-31 14:25:14.667 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=.net
+2020-05-31 14:25:14.668 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=.net
+2020-05-31 14:25:14.668 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java
+2020-05-31 14:25:14.668 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java
+2020-05-31 14:25:14.669 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java
+2020-05-31 14:25:14.669 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java
+2020-05-31 14:25:15.420 -05:00 [Information] Received HTTP response after 746.6295ms - OK
+2020-05-31 14:25:15.421 -05:00 [Information] End processing HTTP request after 751.9834ms - OK
+2020-05-31 14:25:15.541 -05:00 [Information] Received HTTP response after 873.3723ms - OK
+2020-05-31 14:25:15.541 -05:00 [Information] End processing HTTP request after 873.6579ms - OK
+2020-05-31 14:25:15.620 -05:00 [Information] Received HTTP response after 1026.1324ms - OK
+2020-05-31 14:25:15.620 -05:00 [Information] End processing HTTP request after 1058.8288ms - OK
+2020-05-31 14:25:15.638 -05:00 [Information] Received HTTP response after 970.0825ms - OK
+2020-05-31 14:25:15.639 -05:00 [Information] End processing HTTP request after 970.3276ms - OK
+2020-05-31 14:25:25.825 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=hector
+2020-05-31 14:25:25.841 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=hector
+2020-05-31 14:25:25.909 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=hector
+2020-05-31 14:25:25.909 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=hector
+2020-05-31 14:25:26.682 -05:00 [Information] Received HTTP response after 768.3322ms - OK
+2020-05-31 14:25:26.683 -05:00 [Information] End processing HTTP request after 773.7804ms - OK
+2020-05-31 14:25:27.597 -05:00 [Information] Received HTTP response after 1756.5672ms - OK
+2020-05-31 14:25:27.597 -05:00 [Information] End processing HTTP request after 1787.3045ms - OK
+2020-05-31 17:29:26.828 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=.net
+2020-05-31 17:29:26.842 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=.net
+2020-05-31 17:29:26.910 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=.net
+2020-05-31 17:29:26.910 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=.net
+2020-05-31 17:29:26.911 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java
+2020-05-31 17:29:26.911 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java
+2020-05-31 17:29:26.911 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java
+2020-05-31 17:29:26.912 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java
+2020-05-31 17:29:26.912 -05:00 [Information] Start processing HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java script
+2020-05-31 17:29:26.912 -05:00 [Information] Sending HTTP request "GET" https://bing-search-api-demo.cognitiveservices.azure.com/bing/v7.0/search?q=java script
+2020-05-31 17:29:26.912 -05:00 [Information] Start processing HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java script
+2020-05-31 17:29:26.912 -05:00 [Information] Sending HTTP request "GET" https://www.googleapis.com/customsearch/v1?key=AIzaSyCwjARCWq4v_ksRmiMzekUJmbDMt0Hg3JA&cx=011875712418367217510:6cfy6owmy3p&q=java script
+2020-05-31 17:29:27.666 -05:00 [Information] Received HTTP response after 742.769ms - OK
+2020-05-31 17:29:27.666 -05:00 [Information] Received HTTP response after 743.5698ms - OK
+2020-05-31 17:29:27.669 -05:00 [Information] End processing HTTP request after 755.9855ms - OK
+2020-05-31 17:29:27.669 -05:00 [Information] End processing HTTP request after 756.8316ms - OK
+2020-05-31 17:29:27.959 -05:00 [Information] Received HTTP response after 1049.0438ms - OK
+2020-05-31 17:29:27.960 -05:00 [Information] End processing HTTP request after 1049.44ms - OK
+2020-05-31 17:29:28.304 -05:00 [Information] Received HTTP response after 1391.2549ms - OK
+2020-05-31 17:29:28.305 -05:00 [Information] End processing HTTP request after 1392.7553ms - OK
+2020-05-31 17:29:28.311 -05:00 [Information] Received HTTP response after 1400.26ms - OK
+2020-05-31 17:29:28.312 -05:00 [Information] End processing HTTP request after 1400.7122ms - OK
+2020-05-31 17:29:28.448 -05:00 [Information] Received HTTP response after 1606.4654ms - OK
+2020-05-31 17:29:28.449 -05:00 [Information] End processing HTTP request after 1635.5196ms - OK
