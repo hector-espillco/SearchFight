@@ -1,4 +1,5 @@
 ﻿using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
 using SearchFight.Application.Common.Interfaces;
 using SearchFight.Application.Dtos;
@@ -14,17 +15,20 @@ namespace SearchFight.Application.Searches
     {
         private readonly IHttpClientFactory _clientFactory;
         private readonly IConfiguration _configuration;
-
-        public GoogleSearch(IHttpClientFactory clientFactory, IConfiguration configuration)
+        private readonly ILogger _logger;
+        public GoogleSearch(IHttpClientFactory clientFactory, IConfiguration configuration, ILoggerFactory loggerFactory)
         {
             _clientFactory = clientFactory;
             _configuration = configuration;
+            _logger = loggerFactory.CreateLogger<GoogleSearch>();
         }
 
         public async Task<ResultSearchDto> SearchText(string param)
         {
+            ResultSearchDto result = null;
             try
             {
+                _logger.LogInformation("Searching in Google");
                 long totalResult = 0;
                 var apiKey = _configuration["Searches:Google:apiKey"];
                 var cx = _configuration["Searches:Google:apiCustomSearch"];
@@ -34,21 +38,22 @@ namespace SearchFight.Application.Searches
                 if (response.IsSuccessStatusCode)
                 {
                     var content = await response.Content.ReadAsStringAsync();
-                    dynamic result = JsonConvert.DeserializeObject(content);
-                    long.TryParse(result?.searchInformation?.totalResults?.Value, out totalResult);
+                    dynamic data = JsonConvert.DeserializeObject(content);
+                    long.TryParse(data?.searchInformation?.totalResults?.Value, out totalResult);
                 }
 
                 return new ResultSearchDto
                 {
                     SearchType = SearchType.Google.GetValue(),
                     SearchParam = param,
-                    Amount = totalResult
+                    Total = totalResult
                 };
             }
             catch (Exception ex)
             {
-                throw ex;
+                _logger.LogError(ex.Message);
             }
+            return result;
         }
     }
 }

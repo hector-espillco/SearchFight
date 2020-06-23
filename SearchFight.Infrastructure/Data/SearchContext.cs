@@ -1,6 +1,7 @@
 ﻿using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 using SearchFight.Application.Common.Interfaces;
+using SearchFight.Application.Searches;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,11 +15,13 @@ namespace SearchFight.Infrastructure.Data
         private readonly IHttpClientFactory _clientFactory;
         private readonly IConfiguration _configuration;
         private readonly ILogger _logger;
-        public SearchContext(IHttpClientFactory clientFactory, IConfiguration configuration, ILogger<SearchContext> logger)
+        private readonly ILoggerFactory _loggerFactory;
+        public SearchContext(IHttpClientFactory clientFactory, IConfiguration configuration, ILoggerFactory loggerFactory)
         {
             _clientFactory = clientFactory;
             _configuration = configuration;
-            _logger = logger;
+            _loggerFactory = loggerFactory;
+            _logger = loggerFactory.CreateLogger<SearchContext>();
         }
 
         public IEnumerable<ISearch> GetAllSearches()
@@ -33,7 +36,8 @@ namespace SearchFight.Infrastructure.Data
 
                 foreach (var searchObject in searchObjects)
                 {
-                    var search = (ISearch)Activator.CreateInstance(searchObject, new object[] { _clientFactory, _configuration });
+                    _logger.LogInformation("Creating search");
+                    var search = (ISearch)Activator.CreateInstance(searchObject, new object[] { _clientFactory, _configuration, _loggerFactory });
                     searches.Add(search);
                 }
             }

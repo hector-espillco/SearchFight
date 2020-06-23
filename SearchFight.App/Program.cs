@@ -58,28 +58,49 @@ namespace SearchFight.App
                 return;
 
             var searchEngine = _serviceProvider.GetService<ISearchEngine>();
-            var result = searchEngine.Search(args.ToList());
-            if (result == null || result.ResultByParams == null || result.ResultByParams.Any() == false)
+            var result = searchEngine.Search(args.ToList())?.Result;
+            if (result == null || result.ResultBySearches == null || result.ResultBySearches.Any() == false)
                 return;
 
+            var resultByParams = result.ResultBySearches
+                                .GroupBy(s => s.SearchParam, s => s, (s, r) => new { param = s, result = r.ToList() })
+                                .Select(r => new 
+                                {
+                                    SearchParam = r.param,
+                                    ResultSearchs = r.result
+                                })
+                                .ToList();
+
             var sb = new StringBuilder();
-            foreach (var resultParam in result.ResultByParams)
+            foreach (var resultParam in resultByParams)
             {
                 sb.Append($"{resultParam.SearchParam}: ");
                 foreach (var resultSearch in resultParam.ResultSearchs)
                 {
-                    sb.Append($"{resultSearch.SearchType}: {resultSearch.Amount} ");
+                    sb.Append($"{resultSearch.SearchType}: {resultSearch.Total} ");
                 }
                 Console.WriteLine(sb.ToString());
                 sb.Clear();
             }
 
-            foreach (var winnerParam in result.WinnerByTypes)
+            var winnerByTypes = result.ResultBySearches
+                                .GroupBy(s => s.SearchType, s => s, (s, r) => new { type = s, result = r.OrderByDescending(a => a.Total).First() })
+                                .Select(r => new 
+                                {
+                                    SearchType = r.type,
+                                    r.result.Total,
+                                    r.result.SearchParam
+                                })
+                                .ToList();
+
+            foreach (var winnerParam in winnerByTypes)
             {
                 Console.WriteLine($"{winnerParam.SearchType} winner:{winnerParam.SearchParam}");
             }
 
-            Console.WriteLine($"Total winner:{result.WinnerParam}");
+            var winner = result.ResultBySearches.OrderByDescending(a => a.Total).FirstOrDefault()?.SearchParam;
+            Console.WriteLine($"Total winner:{winner}");
+
         }
 
         static void DisposeServices()

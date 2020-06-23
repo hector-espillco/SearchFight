@@ -1,4 +1,5 @@
 ﻿using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
 using SearchFight.Application.Common.Interfaces;
 using SearchFight.Application.Dtos;
@@ -14,16 +15,19 @@ namespace SearchFight.Application.Searches
     {
         private readonly IHttpClientFactory _clientFactory;
         private readonly IConfiguration _configuration;
-
-        public BingSearch(IHttpClientFactory clientFactory, IConfiguration configuration)
+        private readonly ILogger _logger;
+        public BingSearch(IHttpClientFactory clientFactory, IConfiguration configuration, ILoggerFactory loggerFactory)
         {
             _clientFactory = clientFactory;
             _configuration = configuration;
+            _logger = loggerFactory.CreateLogger<BingSearch>();
         }
         public async Task<ResultSearchDto> SearchText(string param)
         {
+            ResultSearchDto result = null;
             try
             {
+                _logger.LogInformation("Searching in Bing new");
                 long totalResult = 0;
                 var client = _clientFactory.CreateClient("BingService");
                 var response = await client.GetAsync($"?q={Uri.EscapeDataString(param)}");
@@ -31,21 +35,22 @@ namespace SearchFight.Application.Searches
                 if (response.IsSuccessStatusCode)
                 {
                     var content = await response.Content.ReadAsStringAsync();
-                    dynamic result = JsonConvert.DeserializeObject(content);
-                    long.TryParse(result?.webPages?.totalEstimatedMatches?.Value?.ToString(), out totalResult);
+                    dynamic data = JsonConvert.DeserializeObject(content);
+                    long.TryParse(data?.webPages?.totalEstimatedMatches?.Value?.ToString(), out totalResult);
                 }
 
-                return new ResultSearchDto
+                result = new ResultSearchDto
                 {
                     SearchType = SearchType.Bing.GetValue(),
                     SearchParam = param,
-                    Amount = totalResult
+                    Total = totalResult
                 };
             }
             catch (Exception ex)
             {
-                throw ex;
+                _logger.LogError(ex.Message);
             }
+            return result;
         }
     }
 }

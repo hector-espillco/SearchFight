@@ -6,13 +6,8 @@ namespace SearchFight.Application.Dtos
     {
         public ResultDto()
         {
-            ResultByParams = new HashSet<ResultParamDto>();
-            WinnerByTypes = new HashSet<ResultSearchDto>();
+            ResultBySearches = new HashSet<ResultSearchDto>();
         }
-        public IEnumerable<ResultParamDto> ResultByParams { get; set; }
-
-        public IEnumerable<ResultSearchDto> WinnerByTypes { get; set; }
-
-        public string WinnerParam { get; set; }
+        public IEnumerable<ResultSearchDto> ResultBySearches { get; set; }
     }
 }

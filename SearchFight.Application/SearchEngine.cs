@@ -3,7 +3,7 @@ using SearchFight.Application.Common.Interfaces;
 using SearchFight.Application.Dtos;
 using System;
 using System.Collections.Generic;
-using System.Linq;
+using System.Diagnostics;
 using System.Threading.Tasks;
 
 namespace SearchFight.Application
@@ -18,15 +18,17 @@ namespace SearchFight.Application
             _logger = logger;
         }
 
-        public ResultDto Search(IEnumerable<string> searchParams)
+        public async Task<ResultDto> Search(IEnumerable<string> searchParams)
         {
             var result = new ResultDto();
             var resultSearches = new List<ResultSearchDto>();
             try
             {
-                var searches = _searchContext.GetAllSearches();
+                var stopWath = new Stopwatch();
+                stopWath.Start();
 
-                var tasks = new List<Task>();
+                var searches = _searchContext.GetAllSearches();
+                var tasks = new List<Task<ResultSearchDto>>();
                 foreach (string searchParam in searchParams)
                 {
                     foreach (var search in searches)
@@ -35,36 +37,21 @@ namespace SearchFight.Application
                         tasks.Add(task);
                     }
                 }
-                Task.WaitAll(tasks.ToArray());
+                
+                await Task.WhenAll(tasks);
 
-                foreach (dynamic task in tasks)
+                foreach (var task in tasks)
                 {
-                    if (task.Result != null)
+                    if (task != null && task.Result != null)
                     {
                         resultSearches.Add(task.Result);
                     }
                 }
 
-                result.ResultByParams = resultSearches
-                        .GroupBy(s => s.SearchParam, s => s, (s, r) => new { param = s, result = r.ToList() })
-                        .Select(r => new ResultParamDto
-                        {
-                            SearchParam = r.param,
-                            ResultSearchs = r.result
-                        })
-                        .ToList();
+                result.ResultBySearches = resultSearches;
+                stopWath.Stop();
+                _logger.LogInformation($"Time elapsed:{stopWath.ElapsedMilliseconds}");
 
-                result.WinnerByTypes = resultSearches
-                        .GroupBy(s => s.SearchType, s => s, (s, r) => new { type = s, result = r.OrderByDescending(a => a.Amount).First() })
-                        .Select(r => new ResultSearchDto
-                        {
-                            SearchType = r.type,
-                            Amount = r.result.Amount,
-                            SearchParam = r.result.SearchParam
-                        })
-                        .ToList();
-
-                result.WinnerParam = resultSearches.OrderByDescending(a => a.Amount).FirstOrDefault()?.SearchParam;
             }
             catch (Exception ex)
             {
